@@ -10,6 +10,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suryanarayanang98/Leetcode/tree/master/0001-two-sum) |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
 ## String
 |  |
@@ -19,4 +20,8 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Suryanarayanang98/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
