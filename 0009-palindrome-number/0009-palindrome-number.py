@@ -3,9 +3,16 @@ class Solution:
         if x < 0:
             return False
         
-        strx = str(x)
-        for i in range(len(strx)//2):
-            if strx[i] != strx[len(strx) - i - 1]:
-                return False
-        
-        return True
+        rev_num = 0
+        x_copy = x
+        iter = 0 
+        while x_copy>0:
+            rem = x_copy % 10
+            x_copy = x_copy// 10
+            rev_num += rem*10**(len(str(x)) - iter - 1)
+            iter += 1
+
+        if rev_num == x:
+            return True
+        return False
+
