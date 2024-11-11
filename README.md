@@ -15,6 +15,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
