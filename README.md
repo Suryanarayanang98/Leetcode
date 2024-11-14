@@ -16,6 +16,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suryanarayanang98/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0812-rotate-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Simulation
@@ -35,4 +36,8 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suryanarayanang98/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
