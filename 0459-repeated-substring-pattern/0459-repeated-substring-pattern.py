@@ -3,7 +3,7 @@ class Solution:
         if len(s)<1:
             return True
         substr = ""
-        for i in range(len(s)):
+        for i in range(len(s)//2+1):
             substr += s[i]
             # sdash = "".join([substr for i in range(len(s)/(len(substr)))])
             if len(s)//(len(substr)) * substr == s and len(s) != len(substr):
