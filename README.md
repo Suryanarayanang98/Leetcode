@@ -34,6 +34,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Suryanarayanang98/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suryanarayanang98/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Suryanarayanang98/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Trie
