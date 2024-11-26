@@ -12,6 +12,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 | ------- |
 | [0001-two-sum](https://github.com/Suryanarayanang98/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Suryanarayanang98/Leetcode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/Suryanarayanang98/Leetcode/tree/master/0118-pascals-triangle) |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
 ## String
 |  |
@@ -53,4 +54,8 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Suryanarayanang98/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Suryanarayanang98/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
