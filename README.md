@@ -20,6 +20,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 | [0014-longest-common-prefix](https://github.com/Suryanarayanang98/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Suryanarayanang98/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -32,6 +33,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suryanarayanang98/Leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,12 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Suryanarayanang98/Leetcode/tree/master/0118-pascals-triangle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
