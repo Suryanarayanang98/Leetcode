@@ -1,7 +1,1 @@
-# Write your MySQL query statement below
-select * from (Select e.name, b.bonus from Employee e
-left join
-Bonus b
-using (empId)
-) d
-where bonus < 1000 or bonus is null
+select name, bonus from employee e left join bonus b on e.empid = b.empid where coalesce(bonus,0)<1000
