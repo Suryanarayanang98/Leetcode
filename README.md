@@ -12,6 +12,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 | ------- |
 | [0001-two-sum](https://github.com/Suryanarayanang98/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Suryanarayanang98/Leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Suryanarayanang98/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Suryanarayanang98/Leetcode/tree/master/0118-pascals-triangle) |
 | [3533-snake-in-matrix](https://github.com/Suryanarayanang98/Leetcode/tree/master/3533-snake-in-matrix) |
 ## String
@@ -59,6 +60,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Suryanarayanang98/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Suryanarayanang98/Leetcode/tree/master/0118-pascals-triangle) |
 ## Queue
 |  |
@@ -68,4 +70,8 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Suryanarayanang98/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Suryanarayanang98/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
