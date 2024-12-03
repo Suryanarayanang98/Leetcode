@@ -6,6 +6,7 @@ Questions I did on leetcode. Contains python, sql, pandas etc
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Suryanarayanang98/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Suryanarayanang98/Leetcode/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/Suryanarayanang98/Leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Suryanarayanang98/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
